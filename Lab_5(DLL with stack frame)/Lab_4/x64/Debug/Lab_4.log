@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\olegk\OneDrive\Рабочий стол\закинуть на гитхаб\переделанная 4\Lab_4\Lab_4\Main.cpp(18,38): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegk\OneDrive\Рабочий стол\закинуть на гитхаб\переделанная 4\Lab_4\Lab_4\Main.cpp(29,8): warning C4101: value: неиспользованная локальная переменная
+C:\Users\olegk\OneDrive\Рабочий стол\закинуть на гитхаб\переделанная 4\Lab_4\Lab_4\Main.cpp(193,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegk\OneDrive\Рабочий стол\закинуть на гитхаб\переделанная 4\Lab_4\Lab_4\Main.cpp(208,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegk\OneDrive\Рабочий стол\закинуть на гитхаб\переделанная 4\Lab_4\Lab_4\Main.cpp(234): warning C4715: callbackSubWindow: значение возвращается не при всех путях выполнения
+C:\Users\olegk\OneDrive\Рабочий стол\закинуть на гитхаб\переделанная 4\Lab_4\Lab_4\Main.cpp(268): warning C4715: callbackMainWindow: значение возвращается не при всех путях выполнения
+  Lab_4.vcxproj -> C:\Users\olegk\OneDrive\Рабочий стол\закинуть на гитхаб\переделанная 4\Lab_4\x64\Debug\Lab_4.exe

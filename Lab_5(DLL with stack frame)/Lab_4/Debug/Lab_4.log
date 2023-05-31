@@ -1,0 +1,17 @@
+﻿  Main.cpp
+C:\Users\olegk\OneDrive\Рабочий стол\ProgrammingTechnologiesLab.4-5-main\Lab_4\Lab_4\Main.cpp(12,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegk\OneDrive\Рабочий стол\ProgrammingTechnologiesLab.4-5-main\Lab_4\Lab_4\Main.cpp(14,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegk\OneDrive\Рабочий стол\ProgrammingTechnologiesLab.4-5-main\Lab_4\Lab_4\Main.cpp(23,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegk\OneDrive\Рабочий стол\ProgrammingTechnologiesLab.4-5-main\Lab_4\Lab_4\Main.cpp(29,8): warning C4101: value: неиспользованная локальная переменная
+C:\Users\olegk\OneDrive\Рабочий стол\ProgrammingTechnologiesLab.4-5-main\Lab_4\Lab_4\Main.cpp(149,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegk\OneDrive\Рабочий стол\ProgrammingTechnologiesLab.4-5-main\Lab_4\Lab_4\Main.cpp(150,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegk\OneDrive\Рабочий стол\ProgrammingTechnologiesLab.4-5-main\Lab_4\Lab_4\Main.cpp(157,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegk\OneDrive\Рабочий стол\ProgrammingTechnologiesLab.4-5-main\Lab_4\Lab_4\Main.cpp(158,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegk\OneDrive\Рабочий стол\ProgrammingTechnologiesLab.4-5-main\Lab_4\Lab_4\Main.cpp(165,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegk\OneDrive\Рабочий стол\ProgrammingTechnologiesLab.4-5-main\Lab_4\Lab_4\Main.cpp(171,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegk\OneDrive\Рабочий стол\ProgrammingTechnologiesLab.4-5-main\Lab_4\Lab_4\Main.cpp(173,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegk\OneDrive\Рабочий стол\ProgrammingTechnologiesLab.4-5-main\Lab_4\Lab_4\Main.cpp(187,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegk\OneDrive\Рабочий стол\ProgrammingTechnologiesLab.4-5-main\Lab_4\Lab_4\Main.cpp(190,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\olegk\OneDrive\Рабочий стол\ProgrammingTechnologiesLab.4-5-main\Lab_4\Lab_4\Main.cpp(221): warning C4715: callbackSubWindow: значение возвращается не при всех путях выполнения
+C:\Users\olegk\OneDrive\Рабочий стол\ProgrammingTechnologiesLab.4-5-main\Lab_4\Lab_4\Main.cpp(255): warning C4715: callbackMainWindow: значение возвращается не при всех путях выполнения
+  Lab_4.vcxproj -> C:\Users\olegk\OneDrive\Рабочий стол\ProgrammingTechnologiesLab.4-5-main\Lab_4\Debug\Lab_4.exe

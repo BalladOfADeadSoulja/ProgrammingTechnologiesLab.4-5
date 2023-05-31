@@ -1,0 +1,5 @@
+﻿  Multiply.cpp
+C:\Users\olegk\OneDrive\Рабочий стол\ProgrammingTechnologiesLab.4-5-main\Lab_4\DynamicDLL\Multiply.cpp(22,9): warning C4102: multiply: неиспользованная метка
+C:\Users\olegk\OneDrive\Рабочий стол\ProgrammingTechnologiesLab.4-5-main\Lab_4\DynamicDLL\Multiply.cpp(24): warning C4731: Mull: регистр указателя фрейма "ebp" изменен встроенным кодом на языке ассемблера
+C:\Users\olegk\OneDrive\Рабочий стол\ProgrammingTechnologiesLab.4-5-main\Lab_4\DynamicDLL\Multiply.cpp(32): warning C4731: Mull: регистр указателя фрейма "ebp" изменен встроенным кодом на языке ассемблера
+  DynamicDLL.vcxproj -> C:\Users\olegk\OneDrive\Рабочий стол\ProgrammingTechnologiesLab.4-5-main\Lab_4\Debug\DynamicDLL.dll
